@@ -1,0 +1,9 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\bin\Debug\02 Replace a tag.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\bin\Debug\02 Replace a tag.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\bin\Debug\02 Replace a tag.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\obj\Debug\02 Replace a tag.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\obj\Debug\02 Replace a tag.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\02 Replace a tag\obj\Debug\02 Replace a tag.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\02 Replace a tag\bin\Debug\02 Replace a tag.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\02 Replace a tag\obj\Debug\02 Replace a tag.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\02 Replace a tag\obj\Debug\02 Replace a tag.pdb

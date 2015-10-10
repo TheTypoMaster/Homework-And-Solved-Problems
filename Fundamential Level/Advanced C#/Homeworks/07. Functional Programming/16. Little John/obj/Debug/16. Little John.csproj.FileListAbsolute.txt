@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\bin\Debug\_16.Little_John.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\bin\Debug\_16.Little_John.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\bin\Debug\_16.Little_John.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\obj\Debug\16. Little John.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\obj\Debug\_16.Little_John.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\16. Little John\obj\Debug\_16.Little_John.pdb

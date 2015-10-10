@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\08. Full Dir Traversal\bin\Debug\_08.Full_Dir_Traversal.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\08. Full Dir Traversal\bin\Debug\_08.Full_Dir_Traversal.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\08. Full Dir Traversal\bin\Debug\_08.Full_Dir_Traversal.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\08. Full Dir Traversal\obj\Debug\_08.Full_Dir_Traversal.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\08. Full Dir Traversal\obj\Debug\_08.Full_Dir_Traversal.pdb

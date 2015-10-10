@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\bin\Debug\_14.Text_Gravity.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\obj\Debug\_14.Text_Gravity.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\obj\Debug\_14.Text_Gravity.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\14. Text Gravity\obj\Debug\14. Text Gravity.csprojResolveAssemblyReference.cache

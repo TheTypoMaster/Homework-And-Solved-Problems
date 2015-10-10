@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\bin\Debug\_07.Directory_Traversal.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\bin\Debug\_07.Directory_Traversal.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\bin\Debug\_07.Directory_Traversal.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\obj\Debug\07. Directory Traversal.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\obj\Debug\_07.Directory_Traversal.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\07. Directory Traversal\obj\Debug\_07.Directory_Traversal.pdb

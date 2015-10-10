@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\bin\Debug\_01.Odd_Lines.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\obj\Debug\01. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\obj\Debug\_01.Odd_Lines.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\01. Odd Lines\obj\Debug\_01.Odd_Lines.pdb

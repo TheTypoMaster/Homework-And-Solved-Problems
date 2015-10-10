@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\bin\Debug\_06.Zipping_Sliced_Files.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\bin\Debug\_06.Zipping_Sliced_Files.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\bin\Debug\_06.Zipping_Sliced_Files.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\obj\Debug\06. Zipping Sliced Files.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\obj\Debug\_06.Zipping_Sliced_Files.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\06. Files And Streams Homework\06. Zipping Sliced Files\obj\Debug\_06.Zipping_Sliced_Files.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\bin\Debug\_01.Variations_With_Repetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\bin\Debug\_01.Variations_With_Repetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\bin\Debug\_01.Variations_With_Repetition.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\obj\Debug\01. Variations With Repetition.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\obj\Debug\_01.Variations_With_Repetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\01. Variations With Repetition\obj\Debug\_01.Variations_With_Repetition.pdb

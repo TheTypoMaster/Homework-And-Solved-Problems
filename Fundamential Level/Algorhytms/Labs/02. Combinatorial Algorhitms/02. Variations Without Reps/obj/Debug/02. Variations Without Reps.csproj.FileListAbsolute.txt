@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\bin\Debug\_02.Variations_Without_Reps.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\bin\Debug\_02.Variations_Without_Reps.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\bin\Debug\_02.Variations_Without_Reps.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\obj\Debug\02. Variations Without Reps.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\obj\Debug\_02.Variations_Without_Reps.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\02. Variations Without Reps\obj\Debug\_02.Variations_Without_Reps.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\17. Office Stuff.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.pdb

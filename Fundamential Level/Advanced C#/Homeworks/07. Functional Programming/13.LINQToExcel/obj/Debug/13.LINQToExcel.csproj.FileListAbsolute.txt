@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\bin\Debug\13.LINQToExcel.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\bin\Debug\13.LINQToExcel.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\bin\Debug\13.LINQToExcel.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\obj\Debug\13.LINQToExcel.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\obj\Debug\13.LINQToExcel.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\obj\Debug\13.LINQToExcel.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\bin\Debug\EPPlus.dll
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\13.LINQToExcel\bin\Debug\EPPlus.xml

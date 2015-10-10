@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Of Hanoi", "Problem 1\Tower Of Hanoi.csproj", "{C3B8B1A7-0E67-4699-B441-A3400C3844C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Loops", "Problem 2 Nested Loops\Nested Loops.csproj", "{B250F234-8372-43C3-AAE0-35BF818881FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations With Repetition", "Combinations With Repetition\Combinations With Repetition.csproj", "{E51ECD39-A929-4301-B03B-C2B30AE81536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial Slow (Not included)", "Factorial\Factorial Slow (Not included).csproj", "{1AD9EFE6-56FC-4838-B397-0CDD78748743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations Without Repetition", "CombinationsWithoutRepetition\Combinations Without Repetition.csproj", "{C6F23946-A389-4600-AB2F-105EA8BA140B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths Between Cells In Matrix", "Paths Between Cells In Matrix\Paths Between Cells In Matrix.csproj", "{AF93FA35-5F58-4F42-9F9A-0540A75815CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Areas In a Matrix", "Connected Areas In a Matrix\Connected Areas In a Matrix.csproj", "{B6860787-D81E-4E8E-A7CB-F6D7DC7EAB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B8B1A7-0E67-4699-B441-A3400C3844C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B8B1A7-0E67-4699-B441-A3400C3844C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B8B1A7-0E67-4699-B441-A3400C3844C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B8B1A7-0E67-4699-B441-A3400C3844C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B250F234-8372-43C3-AAE0-35BF818881FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B250F234-8372-43C3-AAE0-35BF818881FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B250F234-8372-43C3-AAE0-35BF818881FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B250F234-8372-43C3-AAE0-35BF818881FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51ECD39-A929-4301-B03B-C2B30AE81536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51ECD39-A929-4301-B03B-C2B30AE81536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51ECD39-A929-4301-B03B-C2B30AE81536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51ECD39-A929-4301-B03B-C2B30AE81536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD9EFE6-56FC-4838-B397-0CDD78748743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD9EFE6-56FC-4838-B397-0CDD78748743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD9EFE6-56FC-4838-B397-0CDD78748743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD9EFE6-56FC-4838-B397-0CDD78748743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F23946-A389-4600-AB2F-105EA8BA140B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F23946-A389-4600-AB2F-105EA8BA140B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F23946-A389-4600-AB2F-105EA8BA140B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F23946-A389-4600-AB2F-105EA8BA140B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF93FA35-5F58-4F42-9F9A-0540A75815CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF93FA35-5F58-4F42-9F9A-0540A75815CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF93FA35-5F58-4F42-9F9A-0540A75815CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF93FA35-5F58-4F42-9F9A-0540A75815CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6860787-D81E-4E8E-A7CB-F6D7DC7EAB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6860787-D81E-4E8E-A7CB-F6D7DC7EAB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6860787-D81E-4E8E-A7CB-F6D7DC7EAB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6860787-D81E-4E8E-A7CB-F6D7DC7EAB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

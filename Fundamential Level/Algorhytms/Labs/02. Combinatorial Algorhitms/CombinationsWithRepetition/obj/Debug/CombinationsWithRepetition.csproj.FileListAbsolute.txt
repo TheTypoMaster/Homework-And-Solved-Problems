@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

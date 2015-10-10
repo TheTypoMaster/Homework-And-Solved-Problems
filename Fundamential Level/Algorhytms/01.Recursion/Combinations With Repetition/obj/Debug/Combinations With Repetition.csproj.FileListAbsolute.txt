@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\bin\Debug\Combinations With Repetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\bin\Debug\Combinations With Repetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\bin\Debug\Combinations With Repetition.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\obj\Debug\Combinations With Repetition.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\obj\Debug\Combinations With Repetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Combinations With Repetition\obj\Debug\Combinations With Repetition.pdb

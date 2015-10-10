@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\bin\Debug\Connected Areas In a Matrix.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\bin\Debug\Connected Areas In a Matrix.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\bin\Debug\Connected Areas In a Matrix.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\obj\Debug\Connected Areas In a Matrix.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\obj\Debug\Connected Areas In a Matrix.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Connected Areas In a Matrix\obj\Debug\Connected Areas In a Matrix.pdb

@@ -1,0 +1,1 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\07. Functional Programming\06. Filter By Email Domain\bin\Debug\_06.Filter_By_Email_Domain.exe.config

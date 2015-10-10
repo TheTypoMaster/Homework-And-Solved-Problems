@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\bin\Debug\04 Sentence Extractor.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\bin\Debug\04 Sentence Extractor.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\bin\Debug\04 Sentence Extractor.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\obj\Debug\04 Sentence Extractor.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\obj\Debug\04 Sentence Extractor.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\04 Sentence Extractor\obj\Debug\04 Sentence Extractor.pdb

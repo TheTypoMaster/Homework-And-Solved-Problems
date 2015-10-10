@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Problem 2 Nested Loops\bin\Debug\Problem 2 Nested Loops.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Problem 2 Nested Loops\obj\Debug\Problem 2 Nested Loops.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Problem 2 Nested Loops\obj\Debug\Problem 2 Nested Loops.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Problem 2 Nested Loops\bin\Debug\Problem 2 Nested Loops.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\Problem 2 Nested Loops\bin\Debug\Problem 2 Nested Loops.pdb

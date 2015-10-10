@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\bin\Debug\03 Extract Emails.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\bin\Debug\03 Extract Emails.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\bin\Debug\03 Extract Emails.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\obj\Debug\03 Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\obj\Debug\03 Extract Emails.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\03 Extract Emails\obj\Debug\03 Extract Emails.pdb

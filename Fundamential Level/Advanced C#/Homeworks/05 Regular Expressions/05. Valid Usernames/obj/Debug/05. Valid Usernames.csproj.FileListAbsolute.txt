@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\obj\Debug\05. Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\obj\Debug\_05.Valid_Usernames.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\05. Valid Usernames\obj\Debug\_05.Valid_Usernames.pdb

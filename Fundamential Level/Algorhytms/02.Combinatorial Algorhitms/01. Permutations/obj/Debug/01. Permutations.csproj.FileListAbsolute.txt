@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\bin\Debug\_01.Permutations.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\bin\Debug\_01.Permutations.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\bin\Debug\_01.Permutations.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\obj\Debug\01. Permutations.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\obj\Debug\_01.Permutations.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\02. Combinatorial Algorhitms\01. Permutations\obj\Debug\_01.Permutations.pdb

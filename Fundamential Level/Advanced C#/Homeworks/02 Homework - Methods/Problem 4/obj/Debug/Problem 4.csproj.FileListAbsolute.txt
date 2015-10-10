@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 4\bin\Debug\Problem 4.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 4\bin\Debug\Problem 4.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 4\bin\Debug\Problem 4.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 4\obj\Debug\Problem 4.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 4\obj\Debug\Problem 4.pdb

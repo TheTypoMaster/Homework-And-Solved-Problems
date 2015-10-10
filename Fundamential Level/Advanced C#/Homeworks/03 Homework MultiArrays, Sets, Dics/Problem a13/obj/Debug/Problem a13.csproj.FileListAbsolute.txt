@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\bin\Debug\Problem a13.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\bin\Debug\Problem a13.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\bin\Debug\Problem a13.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\obj\Debug\Problem a13.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\obj\Debug\Problem a13.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\Problem a13\obj\Debug\Problem a13.pdb

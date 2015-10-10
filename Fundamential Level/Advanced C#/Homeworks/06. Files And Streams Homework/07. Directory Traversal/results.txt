@@ -1,0 +1,11 @@
+.docx
+--New Microsoft Word Document.docx - 0kb
+--9.Algorithmic-Exercises.docx - 116kb
+--6. Advanced-CSharp-Streams-And-Files-Homework.docx - 197kb
+.txt
+--New Text Document (2).txt - 0kb
+--New Text Document.txt - 0kb
+.jnt
+--New Journal Document.jnt - 4kb
+.a
+--New Journal Document (2).a - 4kb

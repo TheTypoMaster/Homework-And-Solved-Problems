@@ -1,0 +1,9 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\bin\Debug\01 Series Of Letters.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\bin\Debug\01 Series Of Letters.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\bin\Debug\01 Series Of Letters.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\obj\Debug\01 Series Of Letters.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\obj\Debug\01 Series Of Letters.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\05 Regular Expressions\01 Series Of Letters\obj\Debug\01 Series Of Letters.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\01 Series Of Letters\bin\Debug\01 Series Of Letters.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\01 Series Of Letters\obj\Debug\01 Series Of Letters.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\05 Regular Expressions\01 Series Of Letters\obj\Debug\01 Series Of Letters.pdb

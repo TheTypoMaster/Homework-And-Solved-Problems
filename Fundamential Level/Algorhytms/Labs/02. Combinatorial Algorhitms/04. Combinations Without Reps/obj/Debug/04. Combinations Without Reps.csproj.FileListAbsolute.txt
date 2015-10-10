@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\04. Combinations Without Reps\bin\Debug\_04.Combinations_Without_Reps.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\04. Combinations Without Reps\bin\Debug\_04.Combinations_Without_Reps.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\04. Combinations Without Reps\bin\Debug\_04.Combinations_Without_Reps.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\04. Combinations Without Reps\obj\Debug\_04.Combinations_Without_Reps.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Labs\02. Combinatorial Algorhitms\04. Combinations Without Reps\obj\Debug\_04.Combinations_Without_Reps.pdb

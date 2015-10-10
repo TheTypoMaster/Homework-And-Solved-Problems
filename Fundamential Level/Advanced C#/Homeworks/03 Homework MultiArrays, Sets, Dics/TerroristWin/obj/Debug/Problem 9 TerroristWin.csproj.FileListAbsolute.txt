@@ -1,0 +1,3 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\TerroristWin\bin\Debug\TerroristWin.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\TerroristWin\obj\Debug\TerroristWin.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\03 Homework MultiArrays, Sets, Dics\TerroristWin\obj\Debug\TerroristWin.pdb

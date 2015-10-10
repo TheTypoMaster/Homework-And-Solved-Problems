@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Algorhytms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

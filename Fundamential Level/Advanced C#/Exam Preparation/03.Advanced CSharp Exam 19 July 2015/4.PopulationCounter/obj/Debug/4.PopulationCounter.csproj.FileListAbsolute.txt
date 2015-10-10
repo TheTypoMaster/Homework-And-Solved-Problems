@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\bin\Debug\4.PopulationCounter.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\bin\Debug\4.PopulationCounter.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\bin\Debug\4.PopulationCounter.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\obj\Debug\4.PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\obj\Debug\4.PopulationCounter.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\4.PopulationCounter\obj\Debug\4.PopulationCounter.pdb

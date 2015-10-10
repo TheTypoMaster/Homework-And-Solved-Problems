@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 4b\bin\Debug\Problem 4b.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 4b\bin\Debug\Problem 4b.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 4b\bin\Debug\Problem 4b.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 4b\obj\Debug\Problem 4b.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 4b\obj\Debug\Problem 4b.pdb

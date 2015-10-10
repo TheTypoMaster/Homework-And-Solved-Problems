@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\bin\Debug\08.ClearingCommands.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\bin\Debug\08.ClearingCommands.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\bin\Debug\08.ClearingCommands.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\obj\Debug\08.ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\obj\Debug\08.ClearingCommands.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\08.ClearingCommands\obj\Debug\08.ClearingCommands.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\bin\Debug\_01.Bunker_Buster.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\bin\Debug\_01.Bunker_Buster.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\bin\Debug\_01.Bunker_Buster.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\obj\Debug\01. Bunker Buster.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\obj\Debug\_01.Bunker_Buster.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\01. Bunker Buster\obj\Debug\_01.Bunker_Buster.pdb

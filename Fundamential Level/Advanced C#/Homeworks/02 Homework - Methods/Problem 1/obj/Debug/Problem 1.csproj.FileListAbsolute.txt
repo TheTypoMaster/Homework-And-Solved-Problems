@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\bin\Debug\Problem 1.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\bin\Debug\Problem 1.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\obj\Debug\Problem 1.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\02 Homework - Methods\Problem 1\obj\Debug\Problem 1.pdb

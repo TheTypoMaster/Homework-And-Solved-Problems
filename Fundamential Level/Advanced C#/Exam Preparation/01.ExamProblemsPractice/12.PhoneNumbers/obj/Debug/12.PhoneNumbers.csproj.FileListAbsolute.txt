@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.pdb

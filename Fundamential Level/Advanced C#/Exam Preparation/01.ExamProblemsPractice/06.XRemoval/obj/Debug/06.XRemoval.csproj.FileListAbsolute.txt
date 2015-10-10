@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\bin\Debug\06.XRemoval.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\bin\Debug\06.XRemoval.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\bin\Debug\06.XRemoval.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\obj\Debug\06.XRemoval.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\obj\Debug\06.XRemoval.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\06.XRemoval\obj\Debug\06.XRemoval.pdb

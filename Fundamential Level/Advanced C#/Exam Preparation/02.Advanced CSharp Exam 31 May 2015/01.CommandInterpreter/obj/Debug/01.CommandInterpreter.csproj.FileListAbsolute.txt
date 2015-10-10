@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\Advanced CSharp Exam 31 May 2015\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.pdb

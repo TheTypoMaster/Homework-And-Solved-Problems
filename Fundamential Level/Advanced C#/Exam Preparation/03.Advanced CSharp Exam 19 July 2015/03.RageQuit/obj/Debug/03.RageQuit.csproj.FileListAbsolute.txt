@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\bin\Debug\03.RageQuit.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\bin\Debug\03.RageQuit.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\bin\Debug\03.RageQuit.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\obj\Debug\03.RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\obj\Debug\03.RageQuit.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\03.RageQuit\obj\Debug\03.RageQuit.pdb

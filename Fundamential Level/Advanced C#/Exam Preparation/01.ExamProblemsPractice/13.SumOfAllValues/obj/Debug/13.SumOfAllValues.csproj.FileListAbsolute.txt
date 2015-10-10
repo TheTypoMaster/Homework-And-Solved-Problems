@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb

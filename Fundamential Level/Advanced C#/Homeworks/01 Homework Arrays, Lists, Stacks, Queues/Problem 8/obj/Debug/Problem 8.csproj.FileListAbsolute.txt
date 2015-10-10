@@ -1,0 +1,9 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\bin\Debug\Problem 8.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\bin\Debug\Problem 8.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\bin\Debug\Problem 8.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\obj\Debug\Problem 8.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\obj\Debug\Problem 8.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\obj\Debug\Problem 8.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\bin\Debug\Problem 8.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\obj\Debug\Problem 8.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 8\obj\Debug\Problem 8.pdb

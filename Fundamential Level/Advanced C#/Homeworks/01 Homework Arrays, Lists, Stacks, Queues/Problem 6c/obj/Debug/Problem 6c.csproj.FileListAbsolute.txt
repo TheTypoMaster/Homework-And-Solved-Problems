@@ -1,0 +1,8 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\bin\Debug\Problem 6c.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\bin\Debug\Problem 6c.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\bin\Debug\Problem 6c.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\obj\Debug\Problem 6c.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\obj\Debug\Problem 6c.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\bin\Debug\Problem 6c.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\obj\Debug\Problem 6c.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Homeworks\01 Homework Arrays, Lists, Stacks, Queues\Problem 6c\obj\Debug\Problem 6c.pdb

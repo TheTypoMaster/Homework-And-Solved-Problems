@@ -1,0 +1,5 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\02.ArraySlider\bin\Debug\02.ArraySlider.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\02.ArraySlider\bin\Debug\02.ArraySlider.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\02.ArraySlider\bin\Debug\02.ArraySlider.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\02.ArraySlider\obj\Debug\02.ArraySlider.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Exam Preparation\Advanced CSharp Preparation\02.ArraySlider\obj\Debug\02.ArraySlider.pdb

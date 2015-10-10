@@ -1,0 +1,6 @@
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe.config
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.csprojResolveAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.pdb
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.exe
+C:\Users\peter\Documents\Visual Studio 2013\Projects\Fundamential Level\Advanced C#\Exam Preparation\01.ExamProblemsPractice\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.pdb
